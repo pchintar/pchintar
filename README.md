@@ -1,6 +1,6 @@
 # Approved Pull Requests
 
-A curated list of my approved and merged pull requests across 5 open-source projects.
+A curated list of my merged contributions across 5 open-source projects.
 
 ## Apache Arrow
 - [perf(arrow-ord): Avoid full index materialization for small-limit lexsorts](https://github.com/apache/arrow-rs/pull/9991)
