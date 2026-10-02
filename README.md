@@ -10,7 +10,7 @@ A curated list of my merged contributions across 5 open-source projects.
 - [Replace wildcard in skip_field with explicit DataType handling](https://github.com/apache/arrow-rs/pull/9822)
 - [Reader misalignment when skipping ListView / LargeListView columns](https://github.com/apache/arrow-rs/pull/9806)
 - [Avoid panic on malformed compressed buffer prefix](https://github.com/apache/arrow-rs/pull/9802)
-- [fix panic in DeltaByteArrayDecoder on invalid prefix lengths](https://github.com/apache/arrow-rs/pull/9797)
+- [fix panic in Parquet DeltaByteArrayDecoder on invalid prefix lengths](https://github.com/apache/arrow-rs/pull/9797)
 - [Remove per-message flush in IPC writer hot path](https://github.com/apache/arrow-rs/pull/9763)
 
 ## Apache DataFusion
